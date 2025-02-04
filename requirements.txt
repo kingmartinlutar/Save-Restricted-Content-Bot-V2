@@ -1,4 +1,5 @@
 # https://www.dl.dropboxusercontent.com/scl/fi/35w0i0hnsioq63x7eumdd/pyrogagan.zip?rlkey=mq4b56v0z7w7mgj3c0o3sqgo1&st=n7prfm1y&dl=0
+pyrogram
 pyrofork
 psutil
 pillow
@@ -22,3 +23,7 @@ speedtest-cli
 flask
 requests
 <other dependencies>
+pymongo
+python-dotenv
+Flask==2.3.0  # Or any other version you're using
+python-dotenv
