@@ -2,6 +2,7 @@
 pyrogram
 pyrofork
 psutil
+aiofiles
 pillow
 devgagantools
 tgcrypto
